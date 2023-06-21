@@ -2,8 +2,8 @@
 
 ### Hi there! 👋
 ### - ⚡ I'm a Junior Software Developer, pursuing my Bachelor's at Washington State University
-### - 🔭 I’m currently working on CDShort, the official CodeDevils URL shortener, LinkTree clone, and QR Code Generator 
-### - 🌱 I’m currently learning Angular
+### - 🔭 I’m currently working as a Software Engineering Intern at Free+ International School in Tokyo
+### - 🌱 I’m currently learning React
 ### - 📫 How to reach me: sophiamcmahon02@gmail.com 
 
 
